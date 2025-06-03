@@ -1,2 +1,2 @@
-5 4 3 2 1 
-olleH
+Total marks of Rakib: 122
+Total marks of Sakib: 152
